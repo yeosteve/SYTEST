@@ -1,0 +1,21 @@
+<?php
+
+function UpdateExample()
+{      
+
+  $this->load->model('Bpmodel');
+  
+  //if(form has not been submitted){  eg
+    if(!$this->input->post('mysubmit')) {
+    //get data from DB
+    }
+  
+  // set the validation rules
+  if(they fail){
+    call the form view again - if will be written either with the original data from above, or with the sticky data
+    
+  }
+  else{
+    call the model which will update the data
+  }
+}

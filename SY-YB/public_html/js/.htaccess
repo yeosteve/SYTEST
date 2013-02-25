@@ -1,0 +1,9 @@
+# secure htaccess file
+<Files .htaccess>
+ order allow,deny
+ deny from all
+</Files>
+# Prevent php etc being processed from this folder
+SetHandler Do_Not_Remove_See
+Options None
+Options +FollowSymLinks

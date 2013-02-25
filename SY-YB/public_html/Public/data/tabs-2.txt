@@ -1,0 +1,52 @@
+
+        <div id="tabs2" class="nomargin ui-tabs ui-widget ui-widget-content ui-corner-all">
+                <ul class="secondLevel ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+                    <li class="ui-state-default ui-corner-top ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="tabs-21" aria-labelledby="ui-id-18" aria-selected="true"><a href="#tabs-21" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-18">Overview</a></li>
+                    <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-22" aria-labelledby="ui-id-19" aria-selected="false"><a href="#tabs-22" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-19">Outcome</a></li>
+                    <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-23" aria-labelledby="ui-id-20" aria-selected="false"><a href="#tabs-23" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-20">Exemplars</a></li>
+                    <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-24" aria-labelledby="ui-id-21" aria-selected="false"><a href="#tabs-24" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-21">Marking</a></li>
+                    <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-25" aria-labelledby="ui-id-22" aria-selected="false"><a href="#tabs-25" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-22">Plan</a></li>
+                    <li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tabs-26" aria-labelledby="ui-id-23" aria-selected="false"><a href="#tabs-26" class="ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-23">Resources</a></li>
+                </ul>
+                <div class="editMe ui-tabs-panel ui-widget-content ui-corner-bottom" id="tabs-21" aria-labelledby="ui-id-18" role="tabpanel" style="" aria-expanded="true" aria-hidden="false"><form><div style="width: 977px;" class="wysiwyg"><ul class="panel"><li><a class="bold"><!-- --></a></li><li><a class="italic"><!-- --></a></li><li class="separator"></li><li><a class="justifyLeft"><!-- --></a></li><li><a class="justifyCenter"><!-- --></a></li><li><a class="justifyRight"><!-- --></a></li><li><a class="justifyFull"><!-- --></a></li><li class="separator"></li><li><a class="insertOrderedList"><!-- --></a></li><li><a class="insertUnorderedList"><!-- --></a></li><li><a class="createLink"><!-- --></a></li><li><a class="insertImage"><!-- --></a></li><li class="separator"></li><li><a class="h1"><!-- --></a></li><li><a class="h2"><!-- --></a></li><li><a class="h3"><!-- --></a></li><li class="separator"></li><li><a class="increaseFontSize"><!-- --></a></li><li><a class="decreaseFontSize"><!-- --></a></li><li class="separator"></li><li><a class="html"><!-- --></a></li><li><a class="removeFormat"><!-- --></a></li></ul><div style="clear: both;"><!-- --></div><iframe style="min-height: 18px; width: 969px;" id="undefinedIFrame"></iframe></div><textarea style="opacity: 0; height: 21px; width: 991px; display: none;" name="value">                    &lt;p&gt;Overview of Client Side&lt;/p&gt;
+                </textarea><button type="submit">OK</button><button type="cancel">Cancel</button></form></div>
+                <div class="editMe ui-tabs-panel ui-widget-content ui-corner-bottom" id="tabs-22" aria-labelledby="ui-id-19" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true">
+                    <p>Outcome for Client Side</p>
+                </div>
+                <div class="editMe ui-tabs-panel ui-widget-content ui-corner-bottom" id="tabs-23" aria-labelledby="ui-id-20" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true">
+                    <p>Exemplars</p>
+                </div>
+                <div class="editMe ui-tabs-panel ui-widget-content ui-corner-bottom" id="tabs-24" aria-labelledby="ui-id-21" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true">
+                    <p>Marking</p>
+                </div>
+                <div class="editMe ui-tabs-panel ui-widget-content ui-corner-bottom" id="tabs-25" aria-labelledby="ui-id-22" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true">
+                    <p>Weekly Plan</p>
+                </div>
+					<div class="editMe ui-tabs-panel ui-widget-content ui-corner-bottom" id="tabs-26" aria-labelledby="ui-id-23" role="tabpanel" style="display: none;" aria-expanded="false" aria-hidden="true">
+						<ul class="thirdLevel">
+							<li><a href="#tabs-261">Links</a></li>
+							<li><a href="#tabs-262">Manuals</a></li>
+							<li><a href="#tabs-263">Videos</a></li>
+							<li><a href="#tabs-264">Exercises</a></li>
+							<li><a href="#tabs-265">Examples</a></li>
+						</ul>
+						 <div class="editMe" id="tabs-261" style="">
+							<p>Links for WE02</p>
+							<!--?=getLinks('web02links')?-->
+							
+						</div> 
+						 <div class="editMe" id="tabs-262" style="">
+							<p>Manuals for WE02</p>
+						</div> 
+						 <div class="editMe" id="tabs-263" style="">
+							<p>Videos for WE02</p>
+						</div>
+						 <div class="editMe" id="tabs-264" style="">
+							<p>Exercises for WE02</p>
+						</div> 
+						 <div class="editMe" id="tabs-265" style="">
+							<p>Examples for WE02</p>
+						</div>             
+					</div> <!--end tabs-26-->
+            </div> <!--end #tabs2-->
+	

@@ -1,0 +1,31 @@
+[18-Feb-2013 09:07:16 Pacific/Auckland] PHP Warning:  Unterminated comment starting line 39 in /home/sy/ci/application/modules/countries/libraries/Html_engine.php on line 39
+[18-Feb-2013 12:19:45 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/sy/ci/application/controllers/cms.php on line 13
+[18-Feb-2013 12:20:31 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/sy/ci/application/controllers/cms.php on line 13
+[18-Feb-2013 12:20:32 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/sy/ci/application/controllers/cms.php on line 13
+[18-Feb-2013 12:43:57 Pacific/Auckland] PHP Fatal error:  Call to undefined method Admin::putContent() in /home/sy/ci/application/controllers/cms.php on line 34
+[18-Feb-2013 12:45:13 Pacific/Auckland] PHP Fatal error:  Call to undefined method Admin::putContent() in /home/sy/ci/application/controllers/cms.php on line 34
+[18-Feb-2013 12:50:06 Pacific/Auckland] PHP Fatal error:  Call to undefined method Admin::putContent() in /home/sy/ci/application/controllers/cms.php on line 34
+[18-Feb-2013 13:04:36 Pacific/Auckland] PHP Fatal error:  Call to undefined function result() in /home/sy/ci/application/views/CMSpage.php on line 3
+[18-Feb-2013 13:04:47 Pacific/Auckland] PHP Fatal error:  Call to undefined function result() in /home/sy/ci/application/views/CMSpage.php on line 3
+[18-Feb-2013 13:05:16 Pacific/Auckland] PHP Fatal error:  Call to a member function result() on a non-object in /home/sy/ci/application/views/CMSpage.php on line 3
+[18-Feb-2013 16:37:46 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/sy/ci/application/controllers/cms.php on line 82
+[18-Feb-2013 17:35:26 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_STRING in /home/sy/ci/application/models/cmsmodel.php on line 47
+[18-Feb-2013 18:00:32 Pacific/Auckland] PHP Fatal error:  Call to undefined method Cmsmodel::getListPages() in /home/sy/ci/application/controllers/cms.php on line 14
+[18-Feb-2013 18:02:55 Pacific/Auckland] PHP Fatal error:  Call to undefined method Cmsmodel::getListPages() in /home/sy/ci/application/controllers/cms.php on line 22
+[18-Feb-2013 18:53:59 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end in /home/sy/ci/application/views/CMSpage.php on line 22
+[18-Feb-2013 18:54:27 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end in /home/sy/ci/application/views/CMSpage.php on line 22
+[18-Feb-2013 18:55:09 Pacific/Auckland] PHP Parse error:  syntax error, unexpected $end in /home/sy/ci/application/views/CMSpage.php on line 22
+[18-Feb-2013 18:55:55 Pacific/Auckland] PHP Fatal error:  Call to a member function row() on a non-object in /home/sy/ci/application/views/CMSpage.php on line 4
+[18-Feb-2013 18:58:45 Pacific/Auckland] PHP Fatal error:  Call to a member function row() on a non-object in /home/sy/ci/application/views/CMSpage.php on line 4
+[18-Feb-2013 22:33:22 Pacific/Auckland] PHP Warning:  Unterminated comment starting line 39 in /home/sy/ci/application/modules/countries/libraries/Html_engine.php on line 39
+[18-Feb-2013 22:34:12 Pacific/Auckland] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/sy/ci/application/views/galleryView.php on line 5
+[18-Feb-2013 22:50:46 Pacific/Auckland] PHP Fatal error:  Call to a member function set_flashdata() on a non-object in /home/sy/ci/application/models/cmsmodel.php on line 55
+[18-Feb-2013 23:18:33 Pacific/Auckland] PHP Fatal error:  Call to a member function result() on a non-object in /home/sy/ci/application/views/galleryView.php on line 11
+[18-Feb-2013 23:23:50 Pacific/Auckland] PHP Fatal error:  Call to a member function result() on a non-object in /home/sy/ci/application/views/galleryView.php on line 11
+[18-Feb-2013 23:23:57 Pacific/Auckland] PHP Fatal error:  Call to a member function result() on a non-object in /home/sy/ci/application/views/galleryView.php on line 11
+[19-Feb-2013 07:12:18 Pacific/Auckland] PHP Fatal error:  Class 'CI_Model' not found in /home/sy/ci/application/controllers/admin.php on line 3
+[19-Feb-2013 08:29:57 Pacific/Auckland] PHP Fatal error:  Class 'CI_Model' not found in /home/sy/ci/application/controllers/admin.php on line 3
+[19-Feb-2013 09:18:50 Pacific/Auckland] PHP Warning:  Unterminated comment starting line 39 in /home/sy/ci/application/modules/countries/libraries/Html_engine.php on line 39
+[21-Feb-2013 08:24:19 Pacific/Auckland] PHP Fatal error:  Class 'CI_Model' not found in /home/sy/ci/application/controllers/admin.php on line 3
+[21-Feb-2013 21:44:11 Pacific/Auckland] PHP Fatal error:  Call to a member function row() on a non-object in /home/sy/ci/application/views/jqedit01.php on line 9
+[21-Feb-2013 21:45:47 Pacific/Auckland] PHP Fatal error:  Cannot redeclare Jqedit::__construct() in /home/sy/ci/application/controllers/jqedit.php on line 12
